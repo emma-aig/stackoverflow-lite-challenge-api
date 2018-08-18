@@ -14,5 +14,14 @@
   },
   "devDependencies": {
     "eslint": "^5.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emma-aig/stackoverflow-lite-challenge-api.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/emma-aig/stackoverflow-lite-challenge-api/issues"
+  },
+  "homepage": "https://github.com/emma-aig/stackoverflow-lite-challenge-api#readme"
 }
