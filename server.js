@@ -10,8 +10,7 @@ app.use(express.json());
  
 //Accessing root directory
 app.get("/api/v1/users/", (req, res) => {
-    console.log("Server is responding to route");
-    res.send("Root directory...");
+    res.send(questions); 
 });
 
 
