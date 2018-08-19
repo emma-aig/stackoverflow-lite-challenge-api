@@ -1,27 +1,14 @@
 {
-  "name": "myapi",
-  "version": "1.0.0",
-  "description": "Andela Challenge API",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Emmanuel Aigbovbiosa",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3"
-  },
-  "devDependencies": {
-    "eslint": "^5.3.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/emma-aig/stackoverflow-lite-challenge-api.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/emma-aig/stackoverflow-lite-challenge-api/issues"
-  },
-  "homepage": "https://github.com/emma-aig/stackoverflow-lite-challenge-api#readme"
+    "name": "Stack-Overflow-lite-API",
+    "version": "1.0.0",
+    "description": "Stack Overflow-lite API",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3"
+    },
+    "author": "Emmanuel Aigbovbiosa",
+    "license": "ISC"
 }
